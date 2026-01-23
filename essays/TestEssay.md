@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "testing writing essays"
+title: "Introduction to Typescript"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-22
 published: true
 labels:
-  - Software Engineering
+  - Athletic Software Engineering
+  - Typescript
   - Learning
 ---
 
