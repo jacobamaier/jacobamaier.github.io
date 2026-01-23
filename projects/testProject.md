@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ue5.png
 title: "Test Project"
-date: 2026
+date: 2025-06-15
 published: true
 labels:
   - Lisp
