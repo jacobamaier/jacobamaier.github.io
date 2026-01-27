@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Alabama. I expect to graduate in Spring, 2028.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "jacobamaier", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "jacobamaier", "url": "http://github.com/jacobamaier" },
       { "network": "linkedin", "username": "Jacob Maier", "url": "http://linkedin.com/in/jacob-a-maier" }
     ]
   },
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "MATLAB"]
     },
     {
       "name": "Toolsets/OS",
@@ -46,38 +46,27 @@
       "company": "Collegeview Acres Home Owners Association",
       "position": "Lifeguard",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-05-30",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assitant Manager",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Oversee facility operations and coworkers",
+        "Conduct pool surveillance and administer first aid in the event of Emergencies",
+        "Ensure pool operation and safety for members by monitoring pump systems and chemicals"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Mommies Matter",
+      "website": "http://mommiesmatter.org",
+      "position": "Volunteer",
+      "startDate": "2022-08-01",
+      "endDate": "2024-05-01",
+      "summary": "Outreach organization for single mothers in need",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Aided in distribution of donations and organization of events",
+        "Babysat children during monthly meetings"
       ]
     },
     {
@@ -96,10 +85,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Presidential Scholarship",
+      "date": "2024-Present",
+      "awarder": "University of Alabama",
+      "summary": "Scholarship awarded to recipients of the National Merit Semi-Finalist designation by the National Merit Scholarship Corporation."
     },
     {
       "title": "First place",
