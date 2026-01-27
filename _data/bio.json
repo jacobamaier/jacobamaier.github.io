@@ -58,6 +58,19 @@
   ],
   "volunteer": [
     {
+      "organization": "CardinalBots robotics team",
+      "website": "https://www.thebluealliance.com/team/4269",
+      "position": "Professional organization involvement",
+      "startDate": "2020-08-01",
+      "endDate": "2024-05-30",
+      "summary": "Team Captain, Electrical lead",
+      "highlights": [
+        "Led in design, development, and in-season maintenance of robot's Electrical and Software systems",
+        "Led team in multiple local competitions utilizing excellent communication",
+        "Organized and led team meetings and activities"
+      ]
+    },
+    {
       "organization": "Mommies Matter",
       "website": "http://mommiesmatter.org",
       "position": "Volunteer",
@@ -68,19 +81,6 @@
         "Aided in distribution of donations and organization of events",
         "Babysat children during monthly meetings"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
@@ -90,12 +90,6 @@
       "awarder": "University of Alabama",
       "summary": "Scholarship awarded to recipients of the National Merit Semi-Finalist designation by the National Merit Scholarship Corporation."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
