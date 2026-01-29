@@ -11,7 +11,7 @@ labels:
   - Athletic Software Development
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/stackoverflow.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/stackoverflow.png">
 
 The deeper I dive into the field of software engineering, one thing becomes increasingly more clear. Asking questions is the backbone of being able to learn. Software Engineering is an extremely complex concept, and many concepts are very unintuitive. To succeed, you have to be able to ask good questions that inspire thoughtful responses. This will enable you to learn while doing, constantly improving your software engineering skills as you build your portfolio or work. [Eric Raymond](http://www.catb.org/esr/faqs/smart-questions.html) gives a list of suggestions for asking smart questions. Some of these include being clear and precise, describing your goal, and explaining what your code does and why it's not what you want. These suggestions make it very easy for other, more experienced developers to diagnose your problem and help you solve it. Not only is this applicable to other developers on forums, but asking smart questions to LLMs that can interpret natural language help them provide much clearer and helpful responses.
  
