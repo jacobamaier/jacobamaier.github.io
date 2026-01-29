@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/coding.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/coding.png">
 
 Last week, we began learning about Typescript in my ICS 314 class. Compared to some other programming classes I’ve had recently, Typescript was easy for me to become comfortable with. I have some experience with Javascript from my middle school coding club, which certainly helped. This is a reminder that any experience with or exposure to programming, even 5+ years ago, can make learning and writing code that much easier.
  
