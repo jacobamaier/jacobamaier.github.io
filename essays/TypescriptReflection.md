@@ -17,7 +17,7 @@ labels:
 
 Last week, we began learning about Typescript in my ICS 314 class. Compared to some other programming classes I’ve had recently, Typescript was easy for me to become comfortable with. I have some experience with Javascript from my middle school coding club, which certainly helped. This is a reminder that any experience with or exposure to programming, even 5+ years ago, can make learning and writing code that much easier.
 
- # Comparison
+# Comparison
  
 Compared to the other languages I’ve been working with, C++ and Java, I don’t particularly like Typescript that much. C++ and Java give finer control, with stricter rules that help the code feel more organized. That doesn’t mean that Typescript doesn’t have its uses, as it seems to be light enough to run quickly in a web environment and has many web development applications.
 
