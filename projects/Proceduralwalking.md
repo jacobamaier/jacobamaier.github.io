@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ue5.png
+image: img/ue5.jpg
 title: "Procedural walking"
 date: 2025
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "This proof-of-concept project was a procedural walking system developed in Unreal Engine 5"
 ---
 
-<img class="img-fluid" src="../img/ue5.png">
+<img class="img-fluid" src="../img/ue5.jpg">
 
 # Explanation
 
