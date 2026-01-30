@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ue5.png
 title: "Procedural walking"
-date: 2025-07-15
+date: 2025
 published: true
 labels:
   - Unreal Engine
