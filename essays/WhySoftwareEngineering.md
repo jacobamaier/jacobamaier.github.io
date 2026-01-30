@@ -13,14 +13,14 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/stackoverflow.png">
 
-# Section One
+# Past
 
-Paragraph one
+My lifelong interest in Computer Science and Computer Engineering began when I watched the movie Big Hero 6, and later Iron man. Seeing these heroes 
 
-# Section 2
+# Present
  
 Paragraph two
 
-# Section three
+# Future
 
 Paragraph three
