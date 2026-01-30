@@ -1,23 +1,23 @@
 ---
 layout: project
 type: project
-image: img/ue5.jpg
+image: img/aoc.jpg
 title: "Advent of Code"
-date: 2025
+date: 2024
 published: true
 labels:
   - C++
+  - Practice
   - Puzzle
-  - Procedural
-summary: "This proof-of-concept project was a procedural walking system developed in Unreal Engine 5"
+summary: "This yearly coding project has a daily puzzle for the month before Christmas"
 ---
 
-<img class="img-fluid" src="../img/ue5.jpg">
+<img class="img-fluid" src="../img/aoc.jpg">
 
 # Explanation
 
-This project was mostly a proof-of-concept that I worked on for fun over the summer to help myself become introduced to Unreal Engine. In most video games, moving your character forward activates an animation, causing the character to mimic human-like movement as their model is moved through space. This has issues, however, as uneven surfaces can cause the character models' feet to appear to be suspended midair or poking through the ground. One way to fix this, that I explored, is a system called procedural walking animation. This, as opposed to traditional animation, uses an algorithm to procedurally predict the motion of the character model, and how its feet should interpolate from its starting position to its next step.
+Advent of Code (AOC) is an independent programming project designed to aid in practicing many software engineering techniques. There is a unique puzzle every day of the month leading up to Christmas, and they can be written in any programming language. During the first few days of AOC 2024, I worked through a series of challenges that emphasized problem-solving and logical thinking. Completing these challenges reinforced core programming practices such as breaking problems into smaller components, testing solutions with example inputs, and refining logic through iteration. The exercises also provided practice in debugging and validating assumptions, which are essential skills for writing reliable code.
 
-# Implementation
+# My Experience
 
-I made my program entirely within Blueprints, Unreal Engine's bespoke visual scripting language. Unreal Engine also supports C++, but I hadn't learned it when I worked on this project. The system first moves the torso according to the player's inputs, and then predicts the model's future position based on its current speed and direction. It then smoothly interpolates the feet from their current position to that target, raising and then lowering them as it does so. It also located the ground in relation to the model's feet, accurately positioning them so that they appear to be flat on the ground no matter the angle or height. A resource that significantly helped me handle this project was [this youtube guide](https://youtu.be/Z8eqaFG7lZQ?si=9miz0evKQnqRp9IO) by Unreal Engine about producing procedural animation.
+I wrote my code in C++, gaining experience in a valuable career-important language. Overall, Advent of Code served as a practical way to strengthen algorithmic thinking and develop disciplined coding habits. In addition, the iterative nature of solving and refining solutions encouraged persistence and adaptability when faced with unfamiliar problems. Regularly debugging, testing, and improving my approach strengthened my ability to reason through complex systems and write reliable code, which are essential skills for collaborating on larger projects and succeeding in a software engineering role.
