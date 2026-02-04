@@ -24,3 +24,5 @@ To give an example, I found a question on Stack Overflow that wasn't very smart.
 # A Smart Question
 
 Instead, I found a better example, also on Stack Exchange. This post, aptly titled ["How to remove an item from array by value?"](https://stackoverflow.com/questions/3954438/how-to-remove-item-from-array-by-value?noredirect=1&lq=1), is short and specific. They give an example showing what they want their code to do, say which language they are using, and mention a possible solution that has not worked for them. This is a very smart and well-asked question, with the exception that several users mention it has been asked before. With that being said, the comments are filled with useful advice, from linking similar questions, to giving solutions with and without external libraries. If I ever have an issue with software engineering, I will make sure to do my research, and if it has not already been answered, ask a smart question.
+
+I edited this from the desktop app
