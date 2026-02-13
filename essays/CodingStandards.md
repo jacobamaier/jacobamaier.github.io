@@ -11,7 +11,7 @@ labels:
   - Athletic Software Development
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/eslint.jpg">
+<img width="450px" class="rounded float-start pe-4" src="../img/eslint.jpg">
 
 # Why have a Standard?
 
