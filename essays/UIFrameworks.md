@@ -11,7 +11,7 @@ labels:
   - Athletic Software Development
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/anduril.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/anduril.jpg">
 
 # Background
 
