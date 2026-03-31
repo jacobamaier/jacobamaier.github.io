@@ -7,7 +7,7 @@ published: true
 labels:
   - Software Engineering
   - Nextjs
-  -ICS 314
+  - ICS 314
 ---
 
 # Overview
