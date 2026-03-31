@@ -15,11 +15,11 @@ The problem: There are some people who have a passion for basketball and want to
 
 The solution: This project provides a database for these passionate basketball players to use when finding a court and people to play basketball with. There they will get the answers they are looking for when finding their dream place to play. 
 
-Names of Group 4:
+# Names of Group 4:
 
 Coby Preza, Enoch Pangaribuan, Jacob Maier, Dexter Chung
 
-Mockup Page Ideas
+# Mockup Page Ideas:
 
 To map out many of the courts on island, we can start with Manoa for now
 
@@ -59,7 +59,7 @@ Players in your area
 
 View others profile
 
-Case Ideas:
+# Case Ideas:
 
 Open up the app looking for a court to go to
 
@@ -97,7 +97,7 @@ Keep a tracker on players (for others to make inferences on if they are there or
 
 Thought process is that it doesn’t change the amount of people going there if they RSVP)
 
-Beyond: 
+# Beyond: 
 
 Interactive map
 
