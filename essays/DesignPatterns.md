@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Being Smart about becoming Smart"
+title: "Design Patterns in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2026-01-28
+date: 2026-04-30
 published: true
 labels:
   - Learning
