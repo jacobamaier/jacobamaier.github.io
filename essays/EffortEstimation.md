@@ -11,7 +11,7 @@ labels:
   - Athletic Software Development
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/hoopshawaii.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/estimates.png">
 
 # Making the estimates
 
