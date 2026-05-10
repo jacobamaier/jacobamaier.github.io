@@ -24,5 +24,5 @@ This project provided invaluable insight into the collaborative nature of softwa
 
 #Links
 
-Project: <Link src="https://hoops-hawaii-nextjs.vercel.app/">
+Project: <Link src="https://hoops-hawaii-nextjs.vercel.app/">https://hoops-hawaii-nextjs.vercel.app/</Link>
 Source Code: <Link src="https://github.com/hoops-hawaii">
