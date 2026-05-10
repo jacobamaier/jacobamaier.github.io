@@ -26,4 +26,4 @@ This project provided invaluable insight into the collaborative nature of softwa
 
 Project: [https://hoops-hawaii-nextjs.vercel.app/](https://hoops-hawaii-nextjs.vercel.app/)
 
-Source Code: [https://github.com/hoops-hawaii"](https://github.com/hoops-hawaii)
+Source Code: [https://github.com/hoops-hawaii/](https://github.com/hoops-hawaii)
