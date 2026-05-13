@@ -24,55 +24,55 @@ The landscape of education, particularly within Software Engineering (SE), is un
 
    -AI wasn't particularly useful for these WODs, as they were often slower paced and focused on learning. Most of the materials I needed were provided in the experience itself so I rarely used AI tools during Experience WODs.
    
-3. In-class Practice WODs
+2. In-class Practice WODs
 
   -AI tools were very helpful for in-class practice WODs, allowing me to prepare my environment faster and develop efficient solutions more quickly. It also provided me with accurate, specific, and quick documentation for reference. This came at the cost however, of less retention of syntax and common functions/implementations.
   
-4. In-class WODs
+3. In-class WODs
 
    -AI tools were very helpful for in-class WODs, allowing me to prepare my environment faster and develop efficient solutions more quickly. It also provided me with accurate, specific, and quick documentation for reference. This came at the cost however, of less retention of syntax and common functions/implementations.
    
-5. Essays
+4. Essays
 
    -AI was particularly useful for the technical essays. It helped me structure my ideas and organize them into paragraph form, something that is admittedly not my strong suit as a CS major. This probably should have been more of an exercise of my writing ability, but I feel that AI tools helped me convey my ideas more eloquently. I obviously still directed the main content of the essays and rewrote them in my own words to maintain authenticity.
 
-6. Final project
+5. Final project
 
    -AI tools were very useful for the final project, as it dealt with a significant amount of code covering many complex topics. Most often, I would use AI for tips on implementing new components or solving confusing errors.
    
-7. Learning a concept / tutorial
+6. Learning a concept / tutorial
 
    -I rarely used AI to help me learn a concept/generate a tutorial. I found it worse at this task, often explaining at too high or low a level and leaving out important information. Popular educational websites like StackExchange or W3Schools were my go-to when learning new concepts.
    
-8. Answering a question in class or in Discord
+7. Answering a question in class or in Discord
 
    -I didn't use AI for this case. Most questions asked in class or in Discord were more focused on our knowledge or experience, as opposed to specific software engineering questions, which could have been asked directly to AI.
    
-9. Asking or answering a smart-question
+8. Asking or answering a smart-question
 
     -I often used AI to help answer my smart-questions, as it understands natural language and often was able to help me solve my problem very quickly.
    
-10. Coding example e.g. “give an example of using Underscore .pluck”
+9. Coding example e.g. “give an example of using Underscore .pluck”
 
     -AI was very useful for generating coding examples, making solving problems and completing assignments easy and efficient.
     
-11. Explaining code
+10. Explaining code
 
     -This is one of the things AI tools excel at, which I used frequently in class, during WODS, and during assignments.
     
-12. Writing code
+11. Writing code
 
     -I rarely used AI for this purpose. Not only is it disingenuous, but it rarely accomplished the task properly the first time. AI tools have a tendency to misunderstand complex instructions, and using AI to write code often left me with more work cleaning up and fixing than had I just written it myself.
     
-13. Documenting code
+12. Documenting code
 
     -This is another thing that AI tools excel at, helping me quickly and accurately develop some basic documentation for my programs.
     
-14. Quality assurance e.g. “What’s wrong with this code [code here]” or “Fix the ESLint errors in [code here]”
+13. Quality assurance e.g. “What’s wrong with this code [code here]” or “Fix the ESLint errors in [code here]”
 
     -This was the situation where I used AI tools most often. VSCode has a button that copies information about errors, allowing me to paste them into AI tools. They would then explain the issue in natural language and often offer several solutions. This was extremely useful and helped me solve issues and complete programs much quicker.
     
-15. Other uses in ICS 314 not listed
+14. Other uses in ICS 314 not listed
 
     -Another situation I used AI for in ICS 314 was UI development. When redesigning a website with HTML and CSS, sometimes I would ask AI how to format my code such that it matched my desired final product.
 
