@@ -77,7 +77,7 @@ The landscape of education, particularly within Software Engineering (SE), is un
 
   -Another situation I used AI for in ICS 314 was UI development. When redesigning a website with HTML and CSS, sometimes I would ask AI how to format my code such that it matched my desired final product.
 
-# Impact of AI on my Learning and Understanding
+# Impact on Learning and Understanding
 
 The incorporation of AI into ICS 314 aided in my learning and development of software. It has significantly enhanced my comprehension by providing instant, varied explanations for difficult concepts like functional programming and asynchronous logic. However, this convenience brings the challenge of "knowledge debt." If I use an AI suggestion without fully deconstructing why it works, I risk developing a shallow understanding of the material. It has challenged my problem-solving abilities by shifting my role from a "writer" to a "reviewer," forcing me to verify the accuracy and best practices of the AI's output, which is a critical skill in modern software engineering.
 
