@@ -54,19 +54,19 @@ The landscape of education, particularly within Software Engineering (SE), is un
    -I often used AI to help answer my smart-questions, as it understands natural language and often was able to help me solve my problem very quickly.
    
 9. Coding example e.g. “give an example of using Underscore .pluck”
-
+    
    -AI was very useful for generating coding examples, making solving problems and completing assignments easy and efficient.
-
+   
 10. Explaining code
-
+    
    -This is one of the things AI tools excel at, which I used frequently in class, during WODS, and during assignments.
     
 11. Writing code
-
-   -I rarely used AI for this purpose. Not only is it disingenuous, but it rarely accomplished the task properly the first time. AI tools have a tendency to misunderstand complex instructions, and using AI to write code often left me with more work cleaning up and fixing than had I just written it myself.
     
+   -I rarely used AI for this purpose. Not only is it disingenuous, but it rarely accomplished the task properly the first time. AI tools have a tendency to misunderstand complex instructions, and using AI to write code often left me with more work cleaning up and fixing than had I just written it myself.
+   
 12. Documenting code
-
+    
    -This is another thing that AI tools excel at, helping me quickly and accurately develop some basic documentation for my programs.
     
 13. Quality assurance e.g. “What’s wrong with this code [code here]” or “Fix the ESLint errors in [code here]”
@@ -74,7 +74,7 @@ The landscape of education, particularly within Software Engineering (SE), is un
    -This was the situation where I used AI tools most often. VSCode has a button that copies information about errors, allowing me to paste them into AI tools. They would then explain the issue in natural language and often offer several solutions. This was extremely useful and helped me solve issues and complete programs much quicker.
     
 14. Other uses in ICS 314 not listed
-
+    
    -Another situation I used AI for in ICS 314 was UI development. When redesigning a website with HTML and CSS, sometimes I would ask AI how to format my code such that it matched my desired final product.
 
 # Impact on Learning and Understanding
