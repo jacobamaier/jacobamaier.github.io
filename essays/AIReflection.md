@@ -57,7 +57,7 @@ The landscape of education, particularly within Software Engineering (SE), is un
 
    -AI was very useful for generating coding examples, making solving problems and completing assignments easy and efficient.
 
-11. Explaining code
+10. Explaining code
 
    -This is one of the things AI tools excel at, which I used frequently in class, during WODS, and during assignments.
     
