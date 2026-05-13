@@ -23,7 +23,7 @@ The landscape of education, particularly within Software Engineering (SE), is un
  
 1. Experience WODs e.g. E18
 
-   -AI wasn't particularly useful for these WODs, as they were often slower paced and focused on learning. Most of the materials I needed were provided in the experience itself so I rarely used AI tools during Experience WODs.
+  -AI wasn't particularly useful for these WODs, as they were often slower paced and focused on learning. Most of the materials I needed were provided in the experience itself so I rarely used AI tools during Experience WODs.
    
 2. In-class Practice WODs
 
@@ -31,7 +31,7 @@ The landscape of education, particularly within Software Engineering (SE), is un
   
 3. In-class WODs
 
-   -AI tools were very helpful for in-class WODs, allowing me to prepare my environment faster and develop efficient solutions more quickly. It also provided me with accurate, specific, and quick documentation for reference. This came at the cost however, of less retention of syntax and common functions/implementations.
+  -AI tools were very helpful for in-class WODs, allowing me to prepare my environment faster and develop efficient solutions more quickly. It also provided me with accurate, specific, and quick documentation for reference. This came at the cost however, of less retention of syntax and common functions/implementations.
    
 4. Essays
 
