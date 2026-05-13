@@ -18,6 +18,7 @@ labels:
 The landscape of education, particularly within Software Engineering (SE), is undergoing a fundamental shift. In my Software Engineering class, ICS 314, we transitioned from writing code to engineering systems. When that happened, Artificial Intelligence moved from a futuristic novelty to a daily collaborator. Throughout this course, I have integrated tools like Claude, GitHub Copilot, and Gemini into my workflow. However, rather than simply being a "cheat code", these tools served as a bridge between abstract architectural concepts and the granular syntax of frameworks like React, Bootstrap, and Nextjs.
 
 <br>
+<br>
 # My experience with AI
  
 1. Experience WODs e.g. E18
