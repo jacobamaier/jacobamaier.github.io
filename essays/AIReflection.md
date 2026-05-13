@@ -11,7 +11,7 @@ labels:
   - Athletic Software Development
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/estimates.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/ai-logos.jpg">
 
 # Introduction
 
@@ -53,50 +53,48 @@ The landscape of education, particularly within Software Engineering (SE), is un
    
 10. Coding example e.g. “give an example of using Underscore .pluck”
 
-    -AI was very useful for generating coding examples, making solving problems and completing assignments easy and efficient. This was
+    -AI was very useful for generating coding examples, making solving problems and completing assignments easy and efficient.
     
 11. Explaining code
 
-    -
+    -This is one of the things AI tools excel at, which I used frequently in class, during WODS, and during assignments.
     
 12. Writing code
 
-    -
+    -I rarely used AI for this purpose. Not only is it disingenuous, but it rarely accomplished the task properly the first time. AI tools have a tendency to misunderstand complex instructions, and using AI to write code often left me with more work cleaning up and fixing than had I just written it myself.
     
 13. Documenting code
 
-    -
+    -This is another thing that AI tools excel at, helping me quickly and accurately develop some basic documentation for my programs.
     
-14. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+14. Quality assurance e.g. “What’s wrong with this code [code here]” or “Fix the ESLint errors in [code here]”
 
-    -
+    -This was the situation where I used AI tools most often. VSCode has a button that copies information about errors, allowing me to paste them into AI tools. They would then explain the issue in natural language and often offer several solutions. This was extremely useful and helped me solve issues and complete programs much quicker.
     
 15. Other uses in ICS 314 not listed
 
-    -
+    -Another situation I used AI for in ICS 314 was UI development. When redesigning a website with HTML and CSS, sometimes I would ask AI how to format my code such that it matched my desired final product.
 
 # Impact of AI on my Learning and Understanding
 
-The incorporation of AI into ICS 314 functioned as a Personalized Tutor. In traditional settings, if I didn't understand "Functional Programming" at 2:00 AM, I was stuck. With AI, I could ask for five different explanations until one clicked.
-
-However, there is a "Knowledge Debt" risk. If I used Copilot to autocomplete a map function without understanding why I chose map over forEach, I was essentially borrowing code I couldn't "repay" during an exam or a live interview. It challenged my understanding by forcing me to be a Code Reviewer rather than just a Code Writer. I had to verify if the AI’s suggestion was actually "Best Practice" or just "Working Code."
+The incorporation of AI into ICS 314 aided in my learning and development of software. It has significantly enhanced my comprehension by providing instant, varied explanations for difficult concepts like functional programming and asynchronous logic. However, this convenience brings the challenge of "knowledge debt." If I use an AI suggestion without fully deconstructing why it works, I risk developing a shallow understanding of the material. It has challenged my problem-solving abilities by shifting my role from a "writer" to a "reviewer," forcing me to verify the accuracy and best practices of the AI's output, which is a critical skill in modern software engineering.
 
 # Practical Applications
 
-Outside of ICS 314, I’ve used AI in the Hawaii Annual Code Challenge (HACC). During the hackathon, the time constraints are brutal. We used AI to quickly scaffold database schemas and generate mock data for testing.
+Outside of ICS 314, AI has many important real-world applications. For example, it has been making massive strides in the biology and medical fields, helping scientists understand protein functions just from its sequence/shape. More specifically in the field of Software Engineering, AI is proving to be very useful and will likely be the future of the field. It is currently very effective at addressing real-world software engineering challanges, and I've used it personally in my personal hobby projects listed on the projects page of this website.
 
 # Challenges and Opportunities
 
-One major challenge I encountered was "version drift," where AI models would suggest code for older versions of React or Meteor that were no longer compatible with our course requirements. Additionally, the temptation to "tab-complete" my way through a difficult logic puzzle remains a constant hurdle for skill retention. Despite these limitations, there are massive opportunities for further integration. Software engineering education could incorporate AI-driven "hint systems" in GitHub that provide feedback on code quality and security vulnerabilities in real-time, effectively giving every student a 24/7 teaching assistant.
+One challenge I encountered was version confusion, where AI models would suggest code using older or newer versions of React or Nextjs that were not compatible with our course requirements. Additionally, the temptation to "tab-complete" my way through a difficult logic puzzle remains a constant hurdle for skill retention. Despite these limitations, there are massive opportunities for further integration. Software engineering education could incorporate AI-driven "hint systems" in GitHub that provide feedback on code quality and security vulnerabilities in real-time, effectively giving every student a 24/7 teaching assistant.
 
 # Comparative Analysis
 
-Comparing traditional teaching methods to an AI-enhanced approach reveals a clear trade-off between foundational depth and professional speed. Traditional methods, such as manual debugging and documentation reading, foster high knowledge retention but can lead to high frustration and slower project progress. The AI-enhanced approach significantly increases engagement by providing immediate success and allowing students to build more complex projects faster. While there is a risk that AI might hinder the development of raw logic skills, it better mimics the current state of the industry, where efficiency and the ability to leverage tools are as important as knowing how to write a for-loop from scratch.
+Comparing traditional teaching methods to an AI-enhanced approach reveals a clear trade-off between foundational depth and professional speed/familiarity. Traditional methods, such as manual debugging and documentation reading, foster high knowledge retention but can lead to high frustration and slower project progress. The AI-enhanced approach significantly increases engagement by providing immediate success and allowing students to build more complex projects faster. While there is a risk that AI might hinder the development of raw logic skills, it better mimics the current state of the industry, where efficiency and the ability to leverage tools are as important as knowing how to write a for-loop from scratch.
 
 # Future Considerations
 
-In the future, I believe AI will fundamentally change the "what" of software engineering education. We will likely see a shift away from grading syntax and toward grading "Architectural Thinking" and "System Design." As AI becomes better at writing the actual lines of code, students will need to be taught how to orchestrate these models, manage security at scale, and handle the ethical implications of automated systems. The challenge for educators will be finding the balance between ensuring students understand the "magic" happening under the hood while preparing them for a professional world that expects them to use every tool at their disposal.
+In the future, I believe AI will continue to fundamentally change software engineering education. We will likely see a shift away from grading syntax and toward grading architectural thinking and system design. As AI continues to get better at writing the actual lines of code, students will need to be taught how to orchestrate these models, manage security at scale, and handle the ethical implications of automated systems. The challenge for educators will be finding the balance between ensuring students understand the "magic" happening under the hood while preparing them for a professional world that expects them to use every tool at their disposal.
 
 # Conclusion
 
-In conclusion, my reflection on using AI in ICS 314 has highlighted it as a powerful, yet double-edged, collaborator. It served as a vital lubricant for the learning process, helping me bypass syntax roadblocks to focus on high-level software engineering principles. To optimize this integration in future courses, I recommend that the curriculum explicitly teaches "AI Literacy" and "Prompt Engineering." By treating AI as a tool to be mastered rather than a shortcut to be avoided, we can better prepare students for the realities of the modern engineering workforce while maintaining a high standard of personal understanding.
+My experiences using AI in ICS 314 have highlighted it as a powerful, yet double-edged, collaborator. It served as a vital tool for the learning process, helping me bypass syntax roadblocks to focus on high-level software engineering principles. To optimize this integration in future courses, I recommend that curriculums explicitly incorporate AI literacy and prompt engineering. By treating AI as a tool to be mastered rather than a shortcut to be avoided, we can better prepare students for the realities of the modern software engineering workforce while maintaining a high standard of personal understanding.
